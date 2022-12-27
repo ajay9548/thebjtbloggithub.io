@@ -3,8 +3,8 @@
 
 the bjt transistor  is a integral circuit which is used in morden technology .such as computer ,androids robots many other technology which is a become essential part of morden soceity .
 bjt is also known as biopolar juntion diode 
-     The BJT                                                                      
-#what is BJT transistor # : 
+     
+    
 
 
 
